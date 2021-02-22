@@ -1,0 +1,17 @@
+.statistics {
+  margin: 100px 0;
+
+  &__item {
+
+    &-img {
+      margin-bottom: 20px;
+    }
+
+    &-description {
+      @include font($ff-SSP, 16);
+      color: rgba(51, 51, 51, 0.5);
+      margin-top: 20px;
+    ;
+    }
+  }
+}

@@ -1,0 +1,214 @@
+@import "_variables";
+@import "slider";
+@import "statistics";
+
+* {
+  box-sizing: border-box;
+}
+
+.header {
+  padding-top: 20px;
+
+  &__logo {
+    @include font($ff-PB, 24);
+    font-weight: bold;
+
+    @media (min-width: 768px) {
+      @include font($ff-PB, 40);
+      font-weight: bold;
+    }
+  }
+
+  &__menu {
+    @include font($ff-SSP, 16);
+
+    &-item {
+      margin-left: 40px;
+      transition: .5s;
+      &:hover {
+        box-shadow: 0 5px 5px -5px white;
+        color: #FFC300;
+      }
+
+      &:last-child {
+        border: 1px solid rgba(255, 255, 255, 0.295063);
+        border-radius: 24px;
+        width: 170px;
+        padding: 10px 40px;
+        transition: .5s;
+        &:hover {
+          background-color: #FFC300;
+          box-shadow: none;
+          color: white;
+        }
+      }
+    }
+  }
+}
+a {
+  text-decoration: none;
+  color: white;
+}
+
+h1 {
+  @include font($ff-PB, 64);
+  font-weight: bold;
+
+  @media (min-width: 768px) {
+    @include font($ff-PB, 72);
+  }
+
+}
+
+h3 {
+  color: rgb(51,51,51,1);
+  @include font($ff-PB, 40);
+  font-weight: 700;
+
+}
+
+.h5 {
+  @include font($ff-PB, 24);
+
+  @media (min-width: 768px) {
+    @include font($ff-PB, 16);
+  }
+
+
+}
+
+.btn-yellow {
+  color: white;
+  @include font($ff-SSP, 16);
+  border-radius: 24px;
+  padding: 12px 47px;
+  transition: 1s;
+  &:hover {
+    background-color: transparent;
+    color: white;
+
+  }
+}
+
+
+#menu {
+  display : block;
+  position : absolute;
+  right : 60px;
+  top: 15px;
+  z-index: 2;
+
+  nav {
+    position : absolute;
+    overflow:hidden;
+    top : 50px;
+    right: -40px;
+  }
+
+  ul {
+    list-style : none;
+    overflow : hidden;
+    margin : 0;
+    padding : 0;
+    transform : translateX(180px);
+    border: 3px solid #C86DD7;
+    border-radius : 10px 0 0 10px;
+    opacity : 0;
+    transition : .5s;
+  }
+
+  li {
+    display : block;
+    background-color : #FFC300;
+    color : #000;
+    width: 200px;
+    transition : .5s;
+    :hover {
+      background-color : #C86DD7;
+    }
+
+    a {
+      display : block;
+      text-decoration : none;
+      color : white;
+      padding : 30px;
+      width : 100%;
+      @include font($ff-SSP, 16);
+    }
+  }
+
+  input {
+    display: block;
+    width: 35px;
+    height: 30px;
+    position: absolute;
+    cursor: pointer;
+    opacity: 0;
+    z-index: 2;
+    top : 2px;
+    -webkit-touch-callout: none;
+
+    [type="checkbox"] {
+      appearance:none;
+      -moz-appearance:none;
+      -webkit-appearance:none;
+      cursor : pointer;
+    }
+  }
+}
+
+#button-burger {
+  display : block;
+  width: 33px;
+  height: 4px;
+  position: absolute;
+  background: #cdcdcd;
+  border-radius: 3px;
+  z-index: 1;
+  top : 20px;
+  transition : width 0.3s, background-color 0.3s;
+
+  &::before {
+    content : "";
+    display : block;
+    width: 33px;
+    height: 4px;
+    position: relative;
+    background: #cdcdcd;
+    border-radius: 3px;
+    z-index: 1;
+    top : -11px;
+    transition : 0.3s;
+  }
+
+  &::after {
+    content : "";
+    display : block;
+    width: 33px;
+    height: 4px;
+    position: relative;
+    background: #cdcdcd;
+    border-radius: 3px;
+    z-index: 1;
+    top : 7px;
+    transition : 0.3s;
+  }
+}
+
+#menu input:checked + #button-burger {
+  background-color : #fff;
+  width : 0;
+  transition : width 0.3s 0.1s, background-color 0.3s;
+}
+#menu input:checked + #button-burger:before {
+  transform : translatey(11px) rotate(45deg);
+}
+#menu input:checked + #button-burger:after {
+  transform : translatey(-11px) rotate(-45deg);
+}
+
+#menu input:checked ~ nav ul {
+  transform : none;
+  opacity : 1;
+  transition : transform 0.5s;
+}

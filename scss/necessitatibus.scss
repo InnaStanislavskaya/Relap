@@ -1,0 +1,69 @@
+.necessitatibus {
+  padding: 100px 0;
+  position: relative;
+
+  &Wrapper {
+    background-color: rgba(48, 35, 174, 1);
+    color: white;
+    margin-top: 100px;
+    overflow: hidden;
+
+    @media (min-width: 992px) {
+      overflow: visible;
+    }
+  }
+
+  &__item {
+    z-index: 2;
+
+    &:first-child {
+      width: 80%;
+      margin-bottom: 30px;
+
+      @media (min-width: 992px) {
+        width: 50%;
+        margin-bottom: 0;
+      }
+    }
+  }
+}
+.oval2 {
+  position: absolute;
+  top: -35px;
+  right: 100px;
+
+  @media (min-width: 720px) {
+    right: 400px;
+  }
+}
+
+.oval1 {
+  position: absolute;
+  bottom: 0;
+  right: -200px;
+
+  @media (min-width: 576px) {
+    right: 0;
+  }
+
+  @media (min-width: 720px) {
+    right: -60px;
+  }
+
+  @media (min-width: 992px) {
+    right: 60px;
+  }
+}
+.oval3 {
+  position: absolute;
+  bottom: 0;
+  left: -11px;
+
+  @media (min-width: 576px) {
+    left: -88px;
+  }
+
+  @media (min-width: 922px) {
+    left: -114px;
+  }
+}

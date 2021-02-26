@@ -2,274 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="493576ce-efbd-4e12-9091-ad085b110a4e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/bootstrap-grid.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/bootstrap-grid.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/bootstrap-grid.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/bootstrap-grid.min.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/bootstrap-grid.rtl.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/bootstrap-grid.rtl.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/bootstrap-grid.rtl.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/bootstrap-grid.rtl.min.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/bootstrap-reboot.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/bootstrap-reboot.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/bootstrap-reboot.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/bootstrap-reboot.min.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/bootstrap-reboot.rtl.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/bootstrap-reboot.rtl.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/bootstrap-reboot.rtl.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/bootstrap-reboot.rtl.min.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/bootstrap-utilities.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/bootstrap-utilities.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/bootstrap-utilities.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/bootstrap-utilities.min.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/bootstrap-utilities.rtl.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/bootstrap-utilities.rtl.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/bootstrap-utilities.rtl.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/bootstrap-utilities.rtl.min.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/bootstrap.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/bootstrap.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/bootstrap.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/bootstrap.min.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/bootstrap.rtl.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/bootstrap.rtl.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/bootstrap.rtl.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/bootstrap.rtl.min.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/style.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fonts/Poppins-Bold.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fonts/SourceSansPro-Bold.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fonts/fonts.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/slider/Rectangle.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/slider/girl.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/slider/rounds.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/statistics/1.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/statistics/2.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/statistics/3.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/statistics/4.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/bootstrap.bundle.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/bootstrap.bundle.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/bootstrap.bundle.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/bootstrap.bundle.min.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/bootstrap.esm.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/bootstrap.esm.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/bootstrap.esm.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/bootstrap.esm.min.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/bootstrap.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/bootstrap.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/bootstrap.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/bootstrap.min.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/script.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/owlcarousel/.gitattributes" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/owlcarousel/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/owlcarousel/.travis.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/owlcarousel/CONTRIBUTING.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/owlcarousel/Gruntfile.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/owlcarousel/ISSUE_TEMPLATE.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/owlcarousel/LICENSE" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/owlcarousel/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/owlcarousel/ROADMAP.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/owlcarousel/_config.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/owlcarousel/bower.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/owlcarousel/dist/LICENSE" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/owlcarousel/dist/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/owlcarousel/dist/assets/ajax-loader.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/owlcarousel/dist/assets/owl.carousel.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/owlcarousel/dist/assets/owl.carousel.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/owlcarousel/dist/assets/owl.theme.default.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/owlcarousel/dist/assets/owl.theme.default.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/owlcarousel/dist/assets/owl.theme.green.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/owlcarousel/dist/assets/owl.theme.green.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/owlcarousel/dist/assets/owl.video.play.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/owlcarousel/dist/owl.carousel.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/owlcarousel/dist/owl.carousel.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/owlcarousel/docs/assets/css/animate.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/owlcarousel/docs/assets/css/docs.theme.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/owlcarousel/docs/assets/img/bird_blue_32.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/owlcarousel/docs/assets/img/download.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/owlcarousel/docs/assets/img/feature-drag.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/owlcarousel/docs/assets/img/feature-modern.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/owlcarousel/docs/assets/img/feature-module.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/owlcarousel/docs/assets/img/feature-options.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/owlcarousel/docs/assets/img/feature-responsive.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/owlcarousel/docs/assets/img/feature-zombie.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/owlcarousel/docs/assets/img/owl-logo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/owlcarousel/docs/assets/img/twitter_25.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/owlcarousel/docs/assets/js/app.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/owlcarousel/docs/assets/js/foundation.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/owlcarousel/docs/assets/owlcarousel/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/owlcarousel/docs/assets/owlcarousel/assets/ajax-loader.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/owlcarousel/docs/assets/owlcarousel/assets/owl.carousel.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/owlcarousel/docs/assets/owlcarousel/assets/owl.carousel.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/owlcarousel/docs/assets/owlcarousel/assets/owl.theme.default.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/owlcarousel/docs/assets/owlcarousel/assets/owl.theme.default.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/owlcarousel/docs/assets/owlcarousel/assets/owl.theme.green.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/owlcarousel/docs/assets/owlcarousel/assets/owl.theme.green.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/owlcarousel/docs/assets/owlcarousel/assets/owl.video.play.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/owlcarousel/docs/assets/owlcarousel/owl.carousel.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/owlcarousel/docs/assets/owlcarousel/owl.carousel.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/owlcarousel/docs/assets/vendors/foundation.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/owlcarousel/docs/assets/vendors/highlight.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/owlcarousel/docs/assets/vendors/jquery.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/owlcarousel/docs/assets/vendors/jquery.min.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/owlcarousel/docs/assets/vendors/jquery.mousewheel.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/owlcarousel/docs/demos/animate.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/owlcarousel/docs/demos/autoheight.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/owlcarousel/docs/demos/autoplay.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/owlcarousel/docs/demos/autowidth.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/owlcarousel/docs/demos/basic.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/owlcarousel/docs/demos/center.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/owlcarousel/docs/demos/demos.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/owlcarousel/docs/demos/events.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/owlcarousel/docs/demos/lazyLoad.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/owlcarousel/docs/demos/merge.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/owlcarousel/docs/demos/mousewheel.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/owlcarousel/docs/demos/responsive.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/owlcarousel/docs/demos/rtl.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/owlcarousel/docs/demos/stagepadding.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/owlcarousel/docs/demos/test.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/owlcarousel/docs/demos/urlhashnav.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/owlcarousel/docs/demos/video.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/owlcarousel/docs/docs/api-classes.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/owlcarousel/docs/docs/api-events.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/owlcarousel/docs/docs/api-options.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/owlcarousel/docs/docs/dev-buildin-plugins.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/owlcarousel/docs/docs/dev-external.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/owlcarousel/docs/docs/dev-plugin-api.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/owlcarousel/docs/docs/dev-styles.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/owlcarousel/docs/docs/started-faq.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/owlcarousel/docs/docs/started-installation.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/owlcarousel/docs/docs/started-welcome.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/owlcarousel/docs/docs/support-changelog.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/owlcarousel/docs/docs/support-contact.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/owlcarousel/docs/docs/support-contributing.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/owlcarousel/docs/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/owlcarousel/docs_src/assets/css/animate.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/owlcarousel/docs_src/assets/img/bird_blue_32.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/owlcarousel/docs_src/assets/img/download.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/owlcarousel/docs_src/assets/img/feature-drag.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/owlcarousel/docs_src/assets/img/feature-modern.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/owlcarousel/docs_src/assets/img/feature-module.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/owlcarousel/docs_src/assets/img/feature-options.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/owlcarousel/docs_src/assets/img/feature-responsive.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/owlcarousel/docs_src/assets/img/feature-zombie.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/owlcarousel/docs_src/assets/img/owl-logo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/owlcarousel/docs_src/assets/img/twitter_25.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/owlcarousel/docs_src/assets/js/app.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/owlcarousel/docs_src/assets/js/foundation.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/owlcarousel/docs_src/assets/scss/_settings.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/owlcarousel/docs_src/assets/scss/custom.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/owlcarousel/docs_src/assets/scss/demos.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/owlcarousel/docs_src/assets/scss/docs.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/owlcarousel/docs_src/assets/scss/docs.theme.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/owlcarousel/docs_src/assets/scss/docs.theme.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/owlcarousel/docs_src/assets/scss/highlight.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/owlcarousel/docs_src/assets/vendors/foundation.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/owlcarousel/docs_src/assets/vendors/highlight.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/owlcarousel/docs_src/assets/vendors/jquery.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/owlcarousel/docs_src/assets/vendors/jquery.min.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/owlcarousel/docs_src/assets/vendors/jquery.mousewheel.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/owlcarousel/docs_src/data/classes.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/owlcarousel/docs_src/data/events.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/owlcarousel/docs_src/data/features.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/owlcarousel/docs_src/data/options.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/owlcarousel/docs_src/helpers/modulo.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/owlcarousel/docs_src/helpers/test.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/owlcarousel/docs_src/templates/layouts/demos.hbs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/owlcarousel/docs_src/templates/layouts/docs.hbs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/owlcarousel/docs_src/templates/layouts/home.hbs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/owlcarousel/docs_src/templates/pages/demos/animate.hbs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/owlcarousel/docs_src/templates/pages/demos/autoheight.hbs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/owlcarousel/docs_src/templates/pages/demos/autoplay.hbs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/owlcarousel/docs_src/templates/pages/demos/autowidth.hbs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/owlcarousel/docs_src/templates/pages/demos/basic.hbs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/owlcarousel/docs_src/templates/pages/demos/center.hbs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/owlcarousel/docs_src/templates/pages/demos/demos.hbs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/owlcarousel/docs_src/templates/pages/demos/events.hbs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/owlcarousel/docs_src/templates/pages/demos/lazyLoad.hbs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/owlcarousel/docs_src/templates/pages/demos/merge.hbs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/owlcarousel/docs_src/templates/pages/demos/mousewheel.hbs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/owlcarousel/docs_src/templates/pages/demos/responsive.hbs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/owlcarousel/docs_src/templates/pages/demos/rtl.hbs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/owlcarousel/docs_src/templates/pages/demos/stagepadding.hbs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/owlcarousel/docs_src/templates/pages/demos/test.hbs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/owlcarousel/docs_src/templates/pages/demos/urlhashnav.hbs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/owlcarousel/docs_src/templates/pages/demos/video.hbs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/owlcarousel/docs_src/templates/pages/docs/api-classes.hbs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/owlcarousel/docs_src/templates/pages/docs/api-events.hbs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/owlcarousel/docs_src/templates/pages/docs/api-options.hbs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/owlcarousel/docs_src/templates/pages/docs/dev-buildin-plugins.hbs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/owlcarousel/docs_src/templates/pages/docs/dev-external.hbs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/owlcarousel/docs_src/templates/pages/docs/dev-plugin-api.hbs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/owlcarousel/docs_src/templates/pages/docs/dev-styles.hbs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/owlcarousel/docs_src/templates/pages/docs/started-faq.hbs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/owlcarousel/docs_src/templates/pages/docs/started-installation.hbs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/owlcarousel/docs_src/templates/pages/docs/started-welcome.hbs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/owlcarousel/docs_src/templates/pages/docs/support-changelog.hbs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/owlcarousel/docs_src/templates/pages/docs/support-contact.hbs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/owlcarousel/docs_src/templates/pages/docs/support-contributing.hbs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/owlcarousel/docs_src/templates/pages/index.hbs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/owlcarousel/docs_src/templates/partials/footer.hbs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/owlcarousel/docs_src/templates/partials/head.hbs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/owlcarousel/docs_src/templates/partials/header.hbs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/owlcarousel/docs_src/templates/partials/home-carousel.hbs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/owlcarousel/docs_src/templates/partials/home-features.hbs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/owlcarousel/docs_src/templates/partials/home-hero.hbs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/owlcarousel/docs_src/templates/partials/home-teaser-text.hbs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/owlcarousel/docs_src/templates/partials/javascripts.hbs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/owlcarousel/docs_src/templates/partials/releated-docs.hbs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/owlcarousel/docs_src/templates/partials/sidenav-docs.hbs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/owlcarousel/docs_src/templates/partials/title.hbs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/owlcarousel/docs_src/templates/partials/vendors.hbs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/owlcarousel/package-lock.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/owlcarousel/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/owlcarousel/src/img/ajax-loader.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/owlcarousel/src/img/owl.video.play.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/owlcarousel/src/js/.jscsrc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/owlcarousel/src/js/.jshintrc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/owlcarousel/src/js/owl.animate.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/owlcarousel/src/js/owl.autoheight.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/owlcarousel/src/js/owl.autoplay.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/owlcarousel/src/js/owl.autorefresh.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/owlcarousel/src/js/owl.carousel.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/owlcarousel/src/js/owl.hash.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/owlcarousel/src/js/owl.lazyload.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/owlcarousel/src/js/owl.navigation.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/owlcarousel/src/js/owl.support.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/owlcarousel/src/js/owl.support.modernizr.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/owlcarousel/src/js/owl.video.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/owlcarousel/src/scss/_animate.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/owlcarousel/src/scss/_autoheight.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/owlcarousel/src/scss/_core.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/owlcarousel/src/scss/_lazyload.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/owlcarousel/src/scss/_theme.default.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/owlcarousel/src/scss/_theme.green.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/owlcarousel/src/scss/_theme.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/owlcarousel/src/scss/_video.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/owlcarousel/src/scss/owl.carousel.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/owlcarousel/src/scss/owl.carousel.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/owlcarousel/src/scss/owl.carousel.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/owlcarousel/src/scss/owl.theme.default.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/owlcarousel/src/scss/owl.theme.default.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/owlcarousel/src/scss/owl.theme.default.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/owlcarousel/src/scss/owl.theme.green.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/owlcarousel/src/scss/owl.theme.green.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/owlcarousel/src/scss/owl.theme.green.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/owlcarousel/test/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/owlcarousel/test/unit/autoplay.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/owlcarousel/test/unit/core.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/scss/_variables.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/scss/slider.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/scss/slider.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/scss/slider.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/scss/statistics.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/scss/statistics.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/scss/statistics.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/scss/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/scss/style.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/scss/style.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scss/counsequatur.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scss/necessitatibus.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/style.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/css/style.css.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scss/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/scss/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scss/style.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/scss/style.css.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scss/style.scss" beforeDir="false" afterPath="$PROJECT_DIR$/scss/style.scss" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -279,11 +20,65 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="159">
-              <caret line="26" column="59" selection-start-line="26" selection-start-column="59" selection-end-line="26" selection-end-column="59" />
+            <state relative-caret-position="265">
+              <caret line="123" column="43" selection-start-line="123" selection-start-column="43" selection-end-line="123" selection-end-column="43" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/scss/necessitatibus.scss">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="527">
+              <caret line="66" column="14" selection-start-line="66" selection-start-column="14" selection-end-line="66" selection-end-column="14" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/scss/counsequatur.scss">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="630">
+              <caret line="42" column="32" selection-start-line="42" selection-start-column="32" selection-end-line="42" selection-end-column="32" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/scss/slider.scss">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="311">
+              <caret line="31" column="29" lean-forward="true" selection-start-line="31" selection-start-column="29" selection-end-line="31" selection-end-column="29" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/scss/style.scss">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="833">
+              <caret line="65" column="26" selection-start-line="65" selection-start-column="26" selection-end-line="65" selection-end-column="26" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/css/style.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="270">
+              <caret line="478" selection-start-line="478" selection-end-line="478" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/scss/_variables.scss">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="90">
+              <caret line="6" column="1" selection-start-line="6" selection-start-column="1" selection-end-line="6" selection-end-column="1" />
             </state>
           </provider>
         </entry>
@@ -292,6 +87,11 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -306,13 +106,16 @@
         <option value="$PROJECT_DIR$/js/script.js" />
         <option value="$PROJECT_DIR$/scss/style.scss" />
         <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/scss/style.scss" />
         <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/scss/counsequatur.scss" />
+        <option value="$PROJECT_DIR$/scss/necessitatibus.scss" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="40" />
-    <option name="y" value="44" />
+    <option name="x" value="3" />
+    <option name="y" value="60" />
     <option name="width" value="1400" />
     <option name="height" value="783" />
   </component>
@@ -329,6 +132,11 @@
             <path>
               <item name="relap" type="b2602c69:ProjectViewProjectNode" />
               <item name="Relap" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="relap" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Relap" type="462c0819:PsiDirectoryNode" />
+              <item name="css" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="relap" type="b2602c69:ProjectViewProjectNode" />
@@ -379,12 +187,12 @@
       <option name="presentableId" value="Default" />
       <updated>1613904803122</updated>
       <workItem from="1613904804378" duration="69000" />
-      <workItem from="1613904948948" duration="51636000" />
+      <workItem from="1613904948948" duration="70913000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="51705000" />
+    <option name="totallyTimeSpent" value="70982000" />
   </component>
   <component name="TodoView" selected-index="2">
     <todo-panel id="selected-file">
@@ -396,10 +204,10 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="40" y="44" width="1400" height="783" extended-state="0" />
+    <frame x="3" y="60" width="1400" height="783" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2533137" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2533137" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -412,7 +220,7 @@
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" order="8" />
       <window_info anchor="bottom" id="Version Control" order="9" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="10" visible="true" weight="0.3299566" />
+      <window_info anchor="bottom" id="Terminal" order="10" weight="0.3299566" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -470,13 +278,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/scss/_variables.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" column="1" selection-start-line="6" selection-start-column="1" selection-end-line="6" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/scss/statistics.scss">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="240">
@@ -491,31 +292,52 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/scss/_variables.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="1" selection-start-line="6" selection-start-column="1" selection-end-line="6" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/css/style.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2125">
-          <caret line="288" selection-start-line="288" selection-end-line="288" />
+        <state relative-caret-position="270">
+          <caret line="478" selection-start-line="478" selection-end-line="478" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/scss/slider.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="345">
-          <caret line="23" column="12" selection-start-line="23" selection-start-column="12" selection-end-line="23" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/scss/style.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="477">
-          <caret line="49" column="15" selection-start-line="49" selection-start-column="15" selection-end-line="49" selection-end-column="15" />
+        <state relative-caret-position="311">
+          <caret line="31" column="29" lean-forward="true" selection-start-line="31" selection-start-column="29" selection-end-line="31" selection-end-column="29" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="159">
-          <caret line="26" column="59" selection-start-line="26" selection-start-column="59" selection-end-line="26" selection-end-column="59" />
+        <state relative-caret-position="265">
+          <caret line="123" column="43" selection-start-line="123" selection-start-column="43" selection-end-line="123" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scss/style.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="833">
+          <caret line="65" column="26" selection-start-line="65" selection-start-column="26" selection-end-line="65" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scss/counsequatur.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="630">
+          <caret line="42" column="32" selection-start-line="42" selection-start-column="32" selection-end-line="42" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scss/necessitatibus.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="527">
+          <caret line="66" column="14" selection-start-line="66" selection-start-column="14" selection-end-line="66" selection-end-column="14" />
         </state>
       </provider>
     </entry>
